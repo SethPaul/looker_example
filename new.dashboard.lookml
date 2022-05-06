@@ -1,5 +1,5 @@
 - dashboard: age
-  title: age
+  title: Age
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
